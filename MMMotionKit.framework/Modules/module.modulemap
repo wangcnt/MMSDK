@@ -1,0 +1,6 @@
+framework module MMMotionKit {
+  umbrella header "MMMotionKit.h"
+
+  export *
+  module * { export * }
+}

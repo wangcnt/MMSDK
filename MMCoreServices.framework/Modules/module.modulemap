@@ -1,0 +1,6 @@
+framework module MMCoreServices {
+  umbrella header "MMCoreServices.h"
+
+  export *
+  module * { export * }
+}

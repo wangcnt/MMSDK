@@ -1,0 +1,6 @@
+framework module MMDatabaseKit {
+  umbrella header "MMDatabaseKit.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module MMSecurityKit {
+  umbrella header "MMSecurityKit.h"
+
+  export *
+  module * { export * }
+}

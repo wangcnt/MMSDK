@@ -1,0 +1,6 @@
+framework module MMNotificationCenter {
+  umbrella header "MMNotificationCenter.h"
+
+  export *
+  module * { export * }
+}

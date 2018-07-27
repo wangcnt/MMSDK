@@ -1,0 +1,6 @@
+framework module MMRuntime {
+  umbrella header "MMRuntime.h"
+
+  export *
+  module * { export * }
+}

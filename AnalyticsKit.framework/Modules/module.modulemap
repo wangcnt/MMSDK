@@ -1,0 +1,6 @@
+framework module AnalyticsKit {
+  umbrella header "AnalyticsKit.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module MMLog {
+  umbrella header "MMLog.h"
+
+  export *
+  module * { export * }
+}

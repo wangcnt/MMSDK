@@ -1,0 +1,6 @@
+framework module MMLogin {
+  umbrella header "MMLogin.h"
+
+  export *
+  module * { export * }
+}
